@@ -1,0 +1,2 @@
+# weatcalculator
+Example of laravel
